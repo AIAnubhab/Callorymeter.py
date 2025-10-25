@@ -1,9 +1,9 @@
-# ------------------------------------------------------------
+
 # Project Title : Daily Calorie Tracker CLI
 # Course        : Programming for Problem Solving using Python (ETCCPP102)
 # Student Name  : [Your Name Here]
 # Date          : [Insert Date]
-# ------------------------------------------------------------
+
 
 # Task 1: Welcome Message
 print("===================================")
